@@ -3,6 +3,7 @@ pbl/
 스타트업/
 CSE4020*/
 *.csv
+*Homework*
 UMC/
 
 .DS_Store
