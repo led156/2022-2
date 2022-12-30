@@ -1,6 +1,6 @@
 # 2022-2
 
-## CSE4007_Artificial-Intelligence
+## CSE4007_Artificial-Intelligence : 인공지능
 |폴더명|설명|
 |----|---|
 |K-nearest Neighbor Classifier| - glass 데이터를 이용해 KNN 분류|
@@ -15,7 +15,7 @@
 |Deep Reinforcement Learning| - Taxi(with capture and replay, separated target network) <br> - cartpole(with capture and replay)|
 |Ensemble methods| - randomforest, gradient boosting, catboost 를 포함한 Clssification 성능 비교|
 
-## CSE4020_Computer-Graphics
+## CSE4020_Computer-Graphics : 컴퓨터그래픽스
 |폴더명|설명|
 |----|---|
 |assignment1|shader를 이용해 정 12면체 그리기|
